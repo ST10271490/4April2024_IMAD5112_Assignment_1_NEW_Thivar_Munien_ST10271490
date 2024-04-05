@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._4April2024_IMAD5112_Assignment_1_NEW_Thivar_Munien_ST10271490" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme._4April2024_IMAD5112_Assignment_1_NEW_Thivar_Munien_ST10271490" parent="Base.Theme._4April2024_IMAD5112_Assignment_1_NEW_Thivar_Munien_ST10271490" />
+</resources>
